@@ -1,0 +1,5 @@
+info
+show
+execute_script resources/script1
+execute_script resources/script2
+execute_script resources/script3
